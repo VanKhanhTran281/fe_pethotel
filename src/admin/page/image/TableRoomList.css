@@ -1,0 +1,3 @@
+.bgr .ant-checkbox-input[disabled] + span {
+    background-color: #fafafa; /* Màu nền khi checkbox bị vô hiệu hóa */
+  }

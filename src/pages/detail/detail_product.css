@@ -1,0 +1,117 @@
+.details-img1{
+position: relative;
+}
+.details-img1-1{
+position: relative;
+}
+.details-img1-1-1{
+
+}
+.details-img1-1-2{
+    width: 100%;
+    padding-bottom: 100%;
+    position: relative;
+}
+.details-img1-1-2-1{
+    display: block;
+    object-fit: contain;
+    object-position: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+.details-img2{
+    margin: 5px -5px;
+    position: relative;
+}
+.details-img2-1{
+    display: inline-block;
+    padding: 5px;
+    box-sizing: border-box;
+    width: 20%;
+}
+.details-img2-1-1:hover{
+    border: 2px solid #d0011b ;
+}
+.details-img2-1-1{
+    position: relative;
+}
+.details-img2-1-1-1{
+    width: 100%;
+    padding-bottom: 100%;
+    position: relative;
+}
+.details-img2-1-1-1-1{
+    display: block;
+    object-fit: contain;
+    object-position: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+.details-img2-2{
+    padding: 0;
+    outline: none;
+    cursor: pointer;
+    border: 0!important;
+    font-size: .875rem;
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color .1s cubic-bezier(.4,0,.6,1);
+    position: absolute;
+    width: 1.25rem;
+    height: 2.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #fff;
+    border: 0;
+    background-color: rgba(0,0,0,.2)!important;
+    left: 5px;
+}
+    .details-img2-2-1{
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+        fill: currentColor;
+        position: relative;
+        font-size: 1.25rem;
+    }
+.details-img2-3{
+    padding: 0;
+    outline: none;
+    cursor: pointer;
+    border: 0!important;
+    font-size: .875rem;
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color .1s cubic-bezier(.4,0,.6,1);
+    position: absolute;
+    width: 1.25rem;
+    height: 2.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #fff;
+    border: 0;
+    background-color: rgba(0,0,0,.2)!important;
+    right: 5px;
+}
+    .details-img2-3-1{
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+        fill: currentColor;
+        position: relative;
+        font-size: 1.25rem;
+    }

@@ -1,0 +1,10 @@
+.hover_product:hover{
+    /* border: 1px solid black; */
+    
+    box-shadow: 0 0 10px  rgba(0, 0, 0, 0.3);
+    transform: translate(1px, -1px);
+}
+
+.hover_product:hover .hover_priceproduct {
+    color: red;
+}

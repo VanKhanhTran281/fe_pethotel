@@ -1,0 +1,9 @@
+.nameheader{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+.hover_footer:hover{
+    box-shadow: 0 0 10px  rgba(0, 0, 0, 0.3);
+    transform: translate(1px, -1px);
+}
